@@ -56,7 +56,7 @@ def jogo():
 
     mana_p2=configuracoes_iniciais[2]
 
-    # bonus de vitoria
+    # mão e vida inicial
 
     configuracoes_de_deck_e_mao=comprar_mao_inicial(deck_p1,mao_p1)
 
